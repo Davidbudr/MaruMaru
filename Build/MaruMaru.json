@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Maru Maru",
+"productVersion": "0.1a",
+"dataUrl": "MaruMaru.data.unityweb",
+"asmCodeUrl": "MaruMaru.asm.code.unityweb",
+"asmMemoryUrl": "MaruMaru.asm.memory.unityweb",
+"asmFrameworkUrl": "MaruMaru.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#B1E680",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0a8"
+}
